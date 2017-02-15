@@ -1,0 +1,27 @@
+{
+  "name": "httpservernodesample",
+  "version": "1.0.0",
+  "description": "Sample application for HTTP Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibinkonankunju/HTTPServerNodeSample.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "server"
+  ],
+  "author": "BIBIN K ONANKUNJU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bibinkonankunju/HTTPServerNodeSample/issues"
+  },
+  "homepage": "https://github.com/bibinkonankunju/HTTPServerNodeSample#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
